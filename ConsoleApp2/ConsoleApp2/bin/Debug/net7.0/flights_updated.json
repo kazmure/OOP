@@ -1,0 +1,13 @@
+[
+  {
+    "FlightNumber": "123",
+    "Airline": "AmericanAirlenes",
+    "Destination": "New York",
+    "DepartureTime": "2023-12-21T05:21:36.2334825+02:00",
+    "ArrivalTime": "2023-12-21T07:21:36.2369794+02:00",
+    "Status": 0,
+    "Duration": "02:00:00",
+    "AircraftType": "F16",
+    "Terminal": "1"
+  }
+]
